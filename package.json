@@ -23,7 +23,7 @@
   "author": "AI Protocol",
   "license": "MIT",
   "dependencies": {
-    "@lazy-sol/access-control-upgradeable": "github:lazy-sol/access-control-upgradeable",
+    "@ai-protocol/access-control-upgradeable": "github:AI-Protocol-Official/access-control-upgradeable",
     "@ai-protocol/ali-token": "github:AI-Protocol-Official/ali-token",
     "@ai-protocol/protocol-fee-distributor-contracts": "github:AI-Protocol-Official/protocol-fee-distributor-contracts",
     "@ai-protocol/holders-rewards-distributor-contracts": "github:AI-Protocol-Official/holders-rewards-distributor-contracts",

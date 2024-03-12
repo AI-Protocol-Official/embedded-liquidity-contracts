@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "@lazy-sol/access-control-upgradeable/contracts/InitializableAccessControl.sol";
+import "@ai-protocol/access-control-upgradeable/contracts/InitializableAccessControl.sol";
 import "./TradeableShares.sol";
 import "./SharesFactory.sol";
 import "./SharesSubjectLib.sol";
